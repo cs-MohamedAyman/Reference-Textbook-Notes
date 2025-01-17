@@ -4,7 +4,7 @@
 
 <br><br><br><br><br><br>
 
-<a href="/Computer-Science/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
+<a href="/Computer-Science/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/icons/agenda.png"></img></a>
 
 ## Table of Contents
   * [Multivariable Calculus Textbooks](#Multivariable-Calculus-Textbooks)

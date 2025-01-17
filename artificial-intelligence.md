@@ -4,7 +4,7 @@
 
 <br><br><br><br><br><br>
 
-<a href="/Artificial-Intelligence/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.png"></img></a>
+<a href="/Artificial-Intelligence/README.md"><img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/icons/agenda.png"></img></a>
 
 ## Table of Contents
   * [Artificial Intelligence Algorithms Textbooks](#Artificial-Intelligence-Algorithms-Textbooks)
